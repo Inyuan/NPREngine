@@ -15,17 +15,17 @@ Interface:
 
  
 Outline thick:
-
+<a href="https://imgtu.com/i/f6aklt"><img src="https://z3.ax1x.com/2021/08/14/f6aklt.png" alt="f6aklt.png" border="0"></a>
 
 
 
 Outline Color:
- 
+ <a href="https://imgtu.com/i/f6a360"><img src="https://z3.ax1x.com/2021/08/14/f6a360.png" alt="f6a360.png" border="0"></a>
 
 
 
 Light area Color and shadow area Color:
-
+<a href="https://imgtu.com/i/f6a8XV"><img src="https://z3.ax1x.com/2021/08/14/f6a8XV.png" alt="f6a8XV.png" border="0"></a>
 
 
 finally, thanks ayaat600 provided FBX.
