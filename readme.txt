@@ -6,3 +6,4 @@ StrikeEngine/Shaders: Shaders files
 
 
 I don't think it's easy to rebuild, so for now just for reference.
+Beside, many fundamental codes are come from 《Introduction to 3D Game Programming with Directx12》
