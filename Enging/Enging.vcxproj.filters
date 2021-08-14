@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Material">
+      <UniqueIdentifier>{0631deaa-9ba0-4dd2-9f9f-fffd2119bd99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{e5213b77-ad54-4a6d-bbc6-eb285243af13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{099f9c32-3c9a-4f6c-b7b7-a97e8073b164}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stuff">
+      <UniqueIdentifier>{6e80ee9d-ebb8-4ace-8100-ccba3cabe6ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Auxiliary">
+      <UniqueIdentifier>{091a3d7b-e8b6-44e4-b978-b67b4f1d5c2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Camera">
+      <UniqueIdentifier>{7dadc86a-ad7e-44bb-90c1-e8f369073785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sence">
+      <UniqueIdentifier>{df03c99c-7e30-4056-a792-eed61de12f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{002688ed-4102-4c00-ad2f-04886aa29b2f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Material\Material.h">
+      <Filter>Material</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\d3dApp.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\d3dUtil.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Sence\Sence.h">
+      <Filter>Sence</Filter>
+    </ClInclude>
+    <ClInclude Include="Stuff\Camera.h">
+      <Filter>Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Stuff\Light.h">
+      <Filter>Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Stuff\Object.h">
+      <Filter>Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Stuff\Stuff.h">
+      <Filter>Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\GameTimer.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\MathHelper.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\UploadBuffer.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\Camera.h">
+      <Filter>Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\BasePass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\Pass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\EngingApp.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\FrameResource.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\RenderItem.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\Fbx.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\DDSTextureLoader.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\LightPass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\ScreenQuadRenderer.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\ResourceHeap.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\ProfilePass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\ShadowPass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\GeometryGenerator.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\ProfilePassCS.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\MixPass.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\D3DINF.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\d3dx12.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Auxiliary\D3DLINK.h">
+      <Filter>Auxiliary</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\UpdateData.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game\d3dApp.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\d3dUtil.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\GameTimer.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\MathHelper.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Enging.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\Camera.cpp">
+      <Filter>Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\BasePass.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\FrameResource.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\RenderItem.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\Fbx.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\DDSTextureLoader.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\LightPass.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\ScreenQuadRenderer.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\ResourceHeap.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\ProfilePass.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\ShadowPass.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Stuff\Object.cpp">
+      <Filter>Stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\GeometryGenerator.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\ProfilePassCS.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\MixPass.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Auxiliary\D3DINF.cpp">
+      <Filter>Auxiliary</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\UpdateData.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
