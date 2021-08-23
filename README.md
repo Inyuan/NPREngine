@@ -1,4 +1,4 @@
-# StrokeEngine
+# NPREngine
 A DX12 NPR style rendering practice with CS outline painting and deferred rendering.
 Enging: Engine dll creator (DX12) 
 StrikeEngine: QT UI
