@@ -1,9 +1,14 @@
 # NPREngine
 A DX12 NPR style rendering practice with CS outline painting and deferred rendering.
+
 Enging: Engine dll creator (DX12) 
+
 StrikeEngine: QT UI
+
 StrikeEngine/FBXResouce: FBXinput files
+
 StrikeEngine/Shaders: Shaders files
+
 
 This Engine can change effect bases on material, so it allow different part of a FBX have different outline.
 
